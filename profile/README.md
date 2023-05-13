@@ -1,4 +1,4 @@
-<img src="https://github.com/waterbusio/.github/blob/main/profile/images/waterbus_banner.png?raw=true" width="100%" height=auto align="right" alt="Computador"/>
+<img src="https://github.com/waterbusio/.github/blob/main/profile/images/waterbus_banner_1.png?raw=true" width="100%" height=auto align="right" alt="Computador"/>
 
 # Waterbus: Online Meeting App using Flutter and WebRTC
 
