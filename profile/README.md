@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://github.com/lambiengcode/waterbus/blob/main/assets/images/img_app_logo.png?raw=true" width="180px" height=auto alt="Computador"/>
+  <img src="https://github.com/waterbustech/.github/blob/main/profile/images/Waterbus%20Awesome.png?raw=true" alt="Computador"/>
 </p>
 
 <div class="badges" align="center">
@@ -13,8 +13,6 @@
   <a href="https://github.com/lambiengcode/waterbus/wiki">Wiki</a> &bull;
   <a href="https://github.com/lambiengcode/waterbus/blob/main/LICENSE">License</a>
 </p>
-
-<img src="https://github.com/lambiengcode/waterbus/raw/main/screenshots/waterbus-awesome.gif" width="100%"/>
 
 ## 🌤️ About
 
