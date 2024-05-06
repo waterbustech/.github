@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://github.com/waterbustech/.github/blob/main/profile/images/Waterbus%20Awesome.png?raw=true" alt="Computador"/>
+  <img src="https://github.com/waterbustech/.github/blob/main/profile/images/Waterbus%20Awesome.png?raw=true" alt="Computador" width=80%/>
 </p>
 
 <div class="badges" align="center">
@@ -17,5 +17,9 @@
 ## 🌤️ About
 
 This is an Open Source Video Conferencing App that utilizes Flutter and WebRTC technologies to provide users with a platform to conduct virtual meetings, conferences, and webinars. The app is built to provide seamless audio and video communication, as well as screen sharing, chat functionality and more...
+
+- 📢 [waterbus.netlify.app](http://waterbus.netlify.app/): Home page to introduce products and features.
+- 🌍 [meet.waterbus.tech](http://meet.waterbus.tech/): Web version of `waterbus` with features for online meetings
+- 📖 [Documentation](http://docs.waterbus.tech/): for developers.
 
 <h4 align="center">Built with 💙 by the Waterbus team.</h4>
