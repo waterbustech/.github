@@ -14,6 +14,10 @@
   <a href="https://github.com/lambiengcode/waterbus/blob/main/LICENSE">License</a>
 </p>
 
+<p align="center">
+  <a href="https://www.producthunt.com/products/waterbus-webrtc-sfu/reviews?utm_source=badge-product_review&utm_medium=badge&utm_souce=badge-waterbus&#0045;webrtc&#0045;sfu" target="_blank"><img src="https://api.producthunt.com/widgets/embed-image/v1/product_review.svg?product_id=586891&theme=light" alt="Waterbus&#0058;&#0032;WebRTC&#0032;SFU - Open&#0032;source&#0032;video&#0032;conferencing&#0032;app&#0032;built&#0032;on&#0032;latest&#0032;WebRTC&#0046; | Product Hunt" style="width: 250px; height: 54px;" width="250" height="54" /></a>
+</p>
+
 ## 🌤️ About
 
 This is an Open Source Video Conferencing App that utilizes Flutter and WebRTC technologies to provide users with a platform to conduct virtual meetings, conferences, and webinars. The app is built to provide seamless audio and video communication, as well as screen sharing, chat functionality and more...
