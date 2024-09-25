@@ -24,6 +24,6 @@ This is an Open Source Video Conferencing App that utilizes Flutter and WebRTC t
 
 - 📢 [waterbus.tech](http://waterbus.tech/): Home page to introduce products and features.
 - 🌍 [meet.waterbus.tech](http://meet.waterbus.tech/): Web version of `waterbus` with features for online meetings
-- 📖 [Documentation](http://docs.waterbus.tech/): for developers.
+- 📖 [docs.waterbus.tech](http://docs.waterbus.tech/): Docs for developers.
 
 <h4 align="center">Built with 💙 by the Waterbus team.</h4>
