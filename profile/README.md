@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/987ea9a7-9329-497a-926c-85e6bef2b254" alt="Waterbus: Open Source WebRTC SFU" width="600px"/>
+  <img src="https://github.com/user-attachments/assets/fb3cba0d-9584-4e39-98f9-0705900471e8" alt="Waterbus: Open Source WebRTC SFU" width="600px"/>
 </p>
 
 <div align="center">
