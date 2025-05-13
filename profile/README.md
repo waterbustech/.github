@@ -1,5 +1,9 @@
+> [!IMPORTANT]  
+> We are currently migrating to **V3**, with a completely new backend written in **Rust**. This version introduces powerful features for **live streaming** and **bandwidth-efficient calls**, aiming for **low deployment and operational cost** without compromising on **quality and performance**.  
+> Once the migration is complete, this notice will be removed.
+
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/fb3cba0d-9584-4e39-98f9-0705900471e8" alt="Waterbus: Open Source WebRTC SFU" width="600px"/>
+  <img src="https://github.com/waterbustech/waterbus/raw/feat/waterbus-v2/screenshots/waterbus-awesome.gif" alt="Waterbus: Open Source WebRTC SFU" width="100%"/>
 </p>
 
 <div align="center">
