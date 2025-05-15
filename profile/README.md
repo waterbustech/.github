@@ -3,7 +3,7 @@
 > Once the migration is complete, this notice will be removed.
 
 <p align="center">
-  <img src="https://github.com/waterbustech/waterbus/raw/feat/waterbus-v2/screenshots/waterbus-awesome.gif" alt="Waterbus: Open Source WebRTC SFU" width="100%"/>
+  <img src="https://media.waterbus.tech/waterbus-awesome.gif" alt="Waterbus: Open Source WebRTC SFU" width="100%"/>
 </p>
 
 <div align="center">
