@@ -2,7 +2,7 @@
 > We are currently migrating to **V3**, with a completely new backend written in **Rust**. This version introduces powerful features for **live streaming** and **bandwidth-efficient calls**, aiming for **low deployment and operational cost** without compromising on **quality and performance**.  
 > Once the migration is complete, this notice will be removed.
 
-<img src="https://github.com/waterbustech/waterbus/raw/feat/waterbus-v2/screenshots/waterbus-awesome.gif" alt="Waterbus: Open Source WebRTC SFU" width="100%"/>
+<img src="https://github.com/waterbustech/.github/blob/main/profile/images/waterbus-app.gif?raw=true" alt="Waterbus: Open Source WebRTC SFU" width="100%"/>
 
 <div align="center">
 <a href="https://twitter.com/waterbustech"><img src="https://img.shields.io/twitter/follow/waterbus.tech?style=social" alt="Twitter Follow"></a><a href="https://discord.gg/wMf4dgfwr7"><img alt="Discord" src="https://img.shields.io/discord/1220616225521143818"></a>
