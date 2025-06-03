@@ -20,4 +20,4 @@
 - 🌍 [meet.waterbus.tech](http://meet.waterbus.tech/): Web version of `waterbus` with features for online meetings
 - 📖 [docs.waterbus.tech](http://docs.waterbus.tech/): Docs for developers.
 
-<h4 align="center">Built with 💙 by the Waterbus Team.</h4>
+<h4 align="center">Built with ⚡ by the Waterbus Team.</h4>
