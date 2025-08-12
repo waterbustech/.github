@@ -1,122 +1,50 @@
+# Waterbus
 
-```
-    ╔══════════════════════════════════════════════════════════════╗
-    ║  >> initiating waterbus protocol v3.0                        ║
-    ║  >> status: migration to rust backend in progress...         ║  
-    ║  >> live streaming module: [████████████████████] loaded     ║
-    ║  >> bandwidth optimization: [enabled]                        ║
-    ╚══════════════════════════════════════════════════════════════╝
-```
-
-> ⚠️ **system alert:** upgrading to **v3** — full backend rewrite in **rust**  
-> ⚡ **features unlocked:** advanced live streaming + low-bandwidth calls  
-> 💰 **cost efficiency:** minimal deployment overhead + max performance
+> [!WARNING]
+> We’re migrating to **V3** — a fully rebuilt backend in **Rust** that brings advanced **live streaming** and **bandwidth-efficient calls**, engineered to keep deployment and operational costs low while maintaining exceptional **quality** and **performance**.
 
 ---
 
-## 🔥 system specifications
+## 🚀 Overview
 
-```
-┌─[ waterbus@localhost ]─[ ~ ]
-└─$ cat system_info.txt
+**Waterbus** is a powerful **open-source video conferencing platform** built with **Flutter**, **Rust**, and **WebRTC**.  
+It’s designed for **seamless virtual meetings, webinars, live streaming, and real-time collaboration** — with high-performance audio/video, screen sharing, interactive chat, and more.
 
-codename........: waterbus
-version.........: v3.0-rust
-architecture....: cross-platform
-protocols.......: webrtc | quic | ll-hls
-status..........: open-source weapon
-encryption......: end-to-end
-latency.........: << 50ms
-scalability.....: ∞
-```
+Whether you want to run it for your **team**, **organization**, or as part of your **own product**, Waterbus is designed for:
 
-**waterbus** = open-source video conferencing platform built by hackers, for hackers.  
-**stack**: flutter + rust + webrtc = unstoppable force for virtual collaboration.
-
-**target use cases:**
-```
-[✓] team war rooms & secure meetings
-[✓] organization-wide broadcasts  
-[✓] white-hat webinars & demos
-[✓] real-time collaboration sessions
-[✓] custom integrations via apis
-```
+- 🟢 **Cross-platform** — Web, Desktop, and Mobile.
+- ⚡ **Low-latency** — Optimized media routing using Rust-based SFU.
+- 🌍 **Scalability** — From small group calls to large broadcasts.
+- 💡 **Open & Extensible** — APIs, SDKs, and modular architecture.
 
 ---
 
-## 🌐 live endpoints
+## 🌐 Live Services
 
-```
-┌─────────────────────────────────────────────────────────────┐
-│ service               │ endpoint                    │ status │
-├─────────────────────────────────────────────────────────────┤
-│ 🎯 main demo          │ meet.waterbus.tech         │ [live] │
-│ 📡 landing page       │ waterbus.tech              │ [live] │  
-│ 📚 documentation      │ docs.waterbus.tech         │ [live] │
-│ 📝 changelog          │ changelog.waterbus.tech    │ [live] │
-│ 🔍 system status      │ status.waterbus.tech       │ [live] │
-└─────────────────────────────────────────────────────────────┘
-```
+| Service | Purpose |
+|---------|---------|
+| [**meet.waterbus.tech**](https://meet.waterbus.tech) | 🌟 **Showcase demo** — Video conferencing, webinars, and live streaming |
+| [**waterbus.tech**](https://waterbus.tech) | 📢 Product landing page & feature overview |
+| [**docs.waterbus.tech**](https://docs.waterbus.tech) | 📖 Developer documentation & API reference |
+| [**changelog.waterbus.tech**](https://changelog.waterbus.tech) | 📝 Release notes & version history |
+| [**status.waterbus.tech**](https://status.waterbus.tech) | 📡 Real-time service status worldwide |
 
 ---
 
-## ⚙️ feature matrix
+## 📦 Key Features
 
-```
-┌─[ capabilities@loaded ]──────────────────────────────────────┐
-│                                                              │
-│  🎥 hd audio/video ...................... [webrtc engine]   │
-│  📡 live streaming ................. [hls/ll-hls protocol]  │  
-│  💻 screen broadcasting ............... [window capture]    │
-│  💬 real-time chat .................... [ws + reactions]    │
-│  🔧 adaptive bandwidth ................... [sfu router]     │
-│  🔐 crypto security .................. [e2e encryption]     │
-│                                                              │
-└──────────────────────────────────────────────────────────────┘
-```
+- **High-quality Audio/Video** — Powered by [WebRTC](https://webrtc.org/)
+- **Live Streaming (HLS / LL-HLS)** — Broadcast meetings to thousands
+- **Adaptive Bandwidth** — SFU architecture with dynamic quality switching
+- **Secure & Private** — End-to-end encryption for calls
 
 ---
 
-## 🛠️ technology stack
+## 💬 Community
 
-```bash
-frontend.exe    : flutter [multi-platform compilation]
-backend.rs      : rust    [high-performance sfu core]  
-protocol.lib    : webrtc  [p2p + media streaming]
-transport.bin   : quic    [low-latency data packets]
-database.sql    : postgresql + redis [session management]
-server.js       : fastify [api gateway & routing]
-```
+Waterbus uses **Zulip** for open-source collaboration — join the conversation, ask questions, and contribute ideas.
 
----
+<a href="https://zulip.com/"><img width="70" src="https://raw.githubusercontent.com/zulip/zulip/main/static/images/logo/zulip-icon-circle.svg" alt="Zulip logo"></a>  
+[Join Waterbus Chat](https://waterbus.zulipchat.com/)
 
-## 💀 community access
-
-```
-    ╭─────────────────────────────────────────────────────╮
-    │                                                     │
-    │    ⚡ powered by zulip communication protocol       │
-    │                                                     │ 
-    │    > join the underground: waterbus.zulipchat.com  │
-    │    > share exploits, ask questions, contribute     │
-    │    > collaborate with fellow code warriors         │
-    │                                                     │
-    ╰─────────────────────────────────────────────────────╯
-```
-
-**license**: apache 2.0 *(open-source, modify freely)*
-
----
-
-```
-┌─[ root@waterbus ]─[ ~/deploy ]
-└─$ ./launch.sh --mode=production --scale=infinite
-
-[info] initializing waterbus nodes...
-[info] webrtc engines: online
-[info] rust sfu core: operational  
-[info] ready to handle concurrent connections
-[ready] system armed and ready for deployment
-
-> hack the planet, one video call at a time. 🚀
-```
+Waterbus is licensed under the **Apache 2.0 License**.
