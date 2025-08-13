@@ -1,25 +1,22 @@
-# Waterbus
+## Waterbus
 
 > [!WARNING]
-> We’re migrating to **V3** — a fully rebuilt backend in **Rust** that brings advanced **live streaming** and **bandwidth-efficient calls**, engineered to keep deployment and operational costs low while maintaining exceptional **quality** and **performance**.
+> We’re migrating to **V3** — a fully rebuilt backend in **Rust**, powered by [**str0m**](https://github.com/algesten/str0m) — a **sans-IO WebRTC implementation** for maximum performance, flexibility, and control over media handling.  
+> This release brings advanced **live streaming**, **adaptive media delivery**, and **bandwidth-efficient calls**, engineered for **low deployment costs** and **exceptional quality**.
 
----
+## 🪐 Overview
 
-## 🚀 Overview
+**Waterbus** is a modern **open-source video conferencing platform** built with **Flutter**, **Rust**, and **WebRTC** (via **str0m**).  
+It powers **virtual meetings, webinars, live streaming, and real-time collaboration** — delivering smooth audio/video, screen sharing, interactive chat, and more.
 
-**Waterbus** is a powerful **open-source video conferencing platform** built with **Flutter**, **Rust**, and **WebRTC**.  
-It’s designed for **seamless virtual meetings, webinars, live streaming, and real-time collaboration** — with high-performance audio/video, screen sharing, interactive chat, and more.
-
-Whether you want to run it for your **team**, **organization**, or as part of your **own product**, Waterbus is designed for:
+Whether you run it for your **team**, **organization**, or integrate it into **your own product**, Waterbus is designed for:
 
 - 🟢 **Cross-platform** — Web, Desktop, and Mobile.
-- ⚡ **Low-latency** — Optimized media routing using Rust-based SFU.
-- 🌍 **Scalability** — From small group calls to large broadcasts.
-- 💡 **Open & Extensible** — APIs, SDKs, and modular architecture.
+- ⚡ **Ultra-low latency** — Rust-powered SFU built on **str0m**’s sans-IO design.
+- 🌍 **Scalable architecture** — From 1-on-1 calls to large events.
+- 💡 **Developer-friendly** — APIs, SDKs, and modular design.
 
----
-
-## 🌐 Live Services
+## 🛰️ Live Services
 
 | Service | Purpose |
 |---------|---------|
@@ -27,18 +24,18 @@ Whether you want to run it for your **team**, **organization**, or as part of yo
 | [**waterbus.tech**](https://waterbus.tech) | 📢 Product landing page & feature overview |
 | [**docs.waterbus.tech**](https://docs.waterbus.tech) | 📖 Developer documentation & API reference |
 | [**changelog.waterbus.tech**](https://changelog.waterbus.tech) | 📝 Release notes & version history |
-| [**status.waterbus.tech**](https://status.waterbus.tech) | 📡 Real-time service status worldwide |
-
----
+| [**status.waterbus.tech**](https://status.waterbus.tech) | 📡 Real-time service status |
 
 ## 📦 Key Features
 
-- **High-quality Audio/Video** — Powered by [WebRTC](https://webrtc.org/)
-- **Live Streaming (HLS / LL-HLS)** — Broadcast meetings to thousands
-- **Adaptive Bandwidth** — SFU architecture with dynamic quality switching
+- **High-quality Audio/Video** — Powered by [WebRTC](https://webrtc.org/) via **[str0m](https://github.com/algesten/str0m)**
+- **Adaptive Stream & Dynacast** —  
+  • Dynamically pause unused video layers to cut bandwidth and save device power  
+  • Automatically adjust video quality based on view size and visibility  
+- **Hybrid Topology** — Start peer-to-peer for 1-on-1 calls, seamlessly switch to SFU for group calls  
+- **Live Streaming (HLS / LL-HLS)** — Broadcast to thousands with minimal delay  
+- **Adaptive Bandwidth** — Dynamic quality switching for smooth playback in any network condition  
 - **Secure & Private** — End-to-end encryption for calls
-
----
 
 ## 💬 Community
 
@@ -46,5 +43,9 @@ Waterbus uses **Zulip** for open-source collaboration — join the conversation,
 
 <a href="https://zulip.com/"><img width="70" src="https://raw.githubusercontent.com/zulip/zulip/main/static/images/logo/zulip-icon-circle.svg" alt="Zulip logo"></a>  
 [Join Waterbus Chat](https://waterbus.zulipchat.com/)
+
+## 🤝 Contributing
+
+We welcome contributions from developers, testers, and documentation writers of all experience levels.
 
 Waterbus is licensed under the **Apache 2.0 License**.
